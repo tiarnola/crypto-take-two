@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/crypto-take-two/static/css/main.a8b7ef08.chunk.css",
-    "main.js": "/crypto-take-two/static/js/main.9e87af2c.chunk.js",
-    "main.js.map": "/crypto-take-two/static/js/main.9e87af2c.chunk.js.map",
+    "main.js": "/crypto-take-two/static/js/main.1db32c08.chunk.js",
+    "main.js.map": "/crypto-take-two/static/js/main.1db32c08.chunk.js.map",
     "runtime-main.js": "/crypto-take-two/static/js/runtime-main.298088dc.js",
     "runtime-main.js.map": "/crypto-take-two/static/js/runtime-main.298088dc.js.map",
     "static/js/2.73f43892.chunk.js": "/crypto-take-two/static/js/2.73f43892.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.298088dc.js",
     "static/js/2.73f43892.chunk.js",
     "static/css/main.a8b7ef08.chunk.css",
-    "static/js/main.9e87af2c.chunk.js"
+    "static/js/main.1db32c08.chunk.js"
   ]
 }
