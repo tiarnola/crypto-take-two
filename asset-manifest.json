@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/crypto-take-two/static/css/main.281fc7bc.chunk.css",
-    "main.js": "/crypto-take-two/static/js/main.57603706.chunk.js",
-    "main.js.map": "/crypto-take-two/static/js/main.57603706.chunk.js.map",
+    "main.css": "/crypto-take-two/static/css/main.a8b7ef08.chunk.css",
+    "main.js": "/crypto-take-two/static/js/main.9e87af2c.chunk.js",
+    "main.js.map": "/crypto-take-two/static/js/main.9e87af2c.chunk.js.map",
     "runtime-main.js": "/crypto-take-two/static/js/runtime-main.298088dc.js",
     "runtime-main.js.map": "/crypto-take-two/static/js/runtime-main.298088dc.js.map",
     "static/js/2.73f43892.chunk.js": "/crypto-take-two/static/js/2.73f43892.chunk.js",
     "static/js/2.73f43892.chunk.js.map": "/crypto-take-two/static/js/2.73f43892.chunk.js.map",
     "index.html": "/crypto-take-two/index.html",
-    "static/css/main.281fc7bc.chunk.css.map": "/crypto-take-two/static/css/main.281fc7bc.chunk.css.map",
+    "static/css/main.a8b7ef08.chunk.css.map": "/crypto-take-two/static/css/main.a8b7ef08.chunk.css.map",
     "static/js/2.73f43892.chunk.js.LICENSE.txt": "/crypto-take-two/static/js/2.73f43892.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.298088dc.js",
     "static/js/2.73f43892.chunk.js",
-    "static/css/main.281fc7bc.chunk.css",
-    "static/js/main.57603706.chunk.js"
+    "static/css/main.a8b7ef08.chunk.css",
+    "static/js/main.9e87af2c.chunk.js"
   ]
 }
